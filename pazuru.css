@@ -1,0 +1,99 @@
+body{background:#faf8ef;
+}
+h1{    
+    display: inline-block;
+    font-size:50px;
+    font-family:Arial; 
+    margin-left:400px;
+}
+#lang{   
+    display: inline-block;
+    background:#8f7a66;
+    color:#f9f6f2;
+    width:auto;
+    height:50px;    
+    text-align:center;
+    font-size:30px;
+    padding:5px;
+    font-family:Arial; 
+    margin-left:10px;
+    font-weight: 700; 
+}
+#score{   
+    display: inline-block;
+    background:#8f7a66;
+    color:#f9f6f2;
+    width:auto;
+    height:50px;    
+    text-align:center;
+    font-size:30px;
+    padding:5px;
+    font-family:Arial; 
+    font-weight: 700; 
+}
+#cha{    
+    display: inline-block;
+    width:auto;
+    height:1px;
+    margin-right:1px;
+    color:#faf8ef;
+}
+#number{    
+    background:#8f7a66;
+    color:#f9f6f2;   
+    text-align:center;
+    font-size:25px;
+    font-family:Arial; 
+    margin-left:600px;
+    margin-right:400px;
+    font-weight: 700; 
+    border-radius:5px;
+}
+
+#NEWGAME{
+    display: inline-block;
+    background:#8f7a66;
+    color:#f9f6f2;
+    width:auto;
+    height:50px;    
+    text-align:center;
+    font-size:25px;
+    font-family:Arial; 
+    margin-left:40px;
+    font-weight: 700; 
+    border-radius:5px;
+}
+#table{
+    margin-left:400px;
+    margin-right:400px;    
+    background:#bbada0;
+    display: inline-block;
+    padding: 10px;
+    font-size: 0;
+    border-radius:5px;
+}
+
+#table > div{  
+    background:#cdbfb6;
+    width:100px;
+    height:100px;    
+    max-width:100px;
+    max-height:100px;
+    min-width:100px;
+    min-height:100px;
+    text-align:center;
+    font-size:50px;
+    font-family:Arial; 
+    display: inline-block;
+    line-height: 100px;
+    vertical-align: middle;
+    margin: 5px;
+    font-weight: 700; 
+    border-radius:5px;
+}
+}
+br {
+    clear: both;
+    background:#bbada0;
+    
+}
